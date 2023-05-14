@@ -16,7 +16,7 @@ The code for our StackSafe web application is available in our [Web App Reposito
 
 ## Documentation
 
-For detailed information on how to use the StackSafe platform, please refer to [Documentation](https://gnosis.io/chain)  on integrating with Safe and Gnosis Chain to enhance your DCA experience.
+For detailed information on how to use the StackSafe platform, please refer to [Documentation](https://gnosis.io/)  on integrating with Safe and Gnosis Chain to enhance your DCA experience.
 
 ## Demo Video
 
