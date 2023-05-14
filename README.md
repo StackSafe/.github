@@ -1,5 +1,3 @@
-# .github
-
 #StackSafe Organization
 Welcome to the StackSafe organization! This readme provides an overview of our project, including an introduction and description of the project, a code section linking to the web application, documentation on Safe and Gnosis Chain, a link to a demo video, and a team presentation.
 
