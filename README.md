@@ -28,8 +28,8 @@ The team consists of 4 engineering students and crypto enthusiasts who are bound
 
 - Alia Dramé: Blockchain Developer, [LinkedIn](https://www.linkedin.com/in/alia-drame)
 - Alexis Toppé: Frontend Developer, [LinkedIn](https://www.linkedin.com/in/alexis-toppe)
-- Mike Johnson: Finance Specialist, [LinkedIn](https://www.linkedin.com/in/akli-ait-oumeziane)
-- Emily Davis: UX/UI Designer, [LinkedIn](https://www.linkedin.com/in/aymeric-f%C3%BCl%C3%B6p-30a78719a)
+- Akli AitOumeziane, [Linkedin](https://www.linkedin.com/in/akli-ait-oumeziane)
+- Aymeric , [LinkedIn](https://www.linkedin.com/in/aymeric-f%C3%BCl%C3%B6p-30a78719a)
 
 We are excited to bring the benefits of DCA investing to the blockchain world and look forward to helping users achieve their investment goals.
 
