@@ -12,7 +12,7 @@ StackSafe combines the power of smart contracts and decentralized exchanges to e
 
 ## Code
 
-The code for our StackSafe web application is available in our [Web App Repository](https://github.com/StackSafe/web-app). This repository contains the frontend and backend implementations, as well as the smart contracts that power our platform. Feel free to explore the codebase, contribute to the project, and provide feedback.
+The code for our StackSafe web application is available in our [Web App Repository](https://github.com/StackSafe/web-App). This repository contains the frontend and backend implementations, as well as the smart contracts that power our platform. Feel free to explore the codebase, contribute to the project, and provide feedback.
 
 ## Documentation
 
