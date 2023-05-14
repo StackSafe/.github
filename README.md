@@ -35,4 +35,3 @@ We are excited to bring the benefits of DCA investing to the blockchain world an
 
 If you have any questions, suggestions, or would like to collaborate, please reach out to our team members.
 
-**Note:** Please refer to the respective repositories and documentation for the most up-to-date information on the code, platform, and team.
